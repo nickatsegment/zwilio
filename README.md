@@ -2,6 +2,8 @@
 
 A Twilio webhook server that plays Zork 1 over SMS.
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 ## Usage
 
 ```
